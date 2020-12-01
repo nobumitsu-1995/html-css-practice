@@ -1,0 +1,261 @@
+li{
+  list-style: none;
+}
+
+*{
+  margin: 0px;
+}
+
+body{
+  margin: 70px;
+  width: 1050px;
+  height: 2940px;
+  font-family: Georgia, 游明朝, YuMincho, "Hiragino Mincho ProN", Meiryo, serif
+}
+
+header{
+  height: 160px;
+}
+
+.header-logo{
+  display: block;
+  font-size: 18px;
+  text-decoration: none;
+  color: #111111;
+}
+
+.header-sub{
+  float: left;
+  font-size: 18px;
+  color: #777777;
+  font-weight: normal;
+}
+
+.header-list{
+  float: left;
+  margin-left: 150px;
+}
+
+.header-list a{
+    text-decoration: none;
+    color: #444444;
+}
+
+.header-list li{
+  display: inline-block;
+  float: left;
+  margin-right: 30px;
+}
+
+.wrap-word h1{
+  font-size: 27px;
+  color: #777777;
+  font-weight: normal;
+}
+
+.wrap-word{
+  margin-top: 100px;
+  margin-bottom: 120px;
+}
+
+.day{
+  float: left;
+  text-decoration: none;
+  color: #777777;
+}
+
+.small-container{
+  margin-left: 335px;
+}
+
+.subject{
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
+  color: #111111;
+}
+
+.sentense{
+  font-size: 17px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+.container{
+  margin-bottom: 80px;
+}
+
+.bar{
+  margin-left: 340px;
+}
+
+.n1{
+  background-color: #eee;
+}
+
+.n1 p{
+  font-weight: bold;
+  color: #111111;
+}
+
+.number{
+  text-decoration: none;
+  display: block;
+  color: #777777;
+  width: 45px;
+  height: 45px;
+  border: 1px solid #ccc;
+  float: left;
+  margin-right: 10px;
+}
+
+.number p{
+  text-align: center;
+  margin-top: 13px;
+}
+
+.next{
+  text-decoration: none;
+  display: block;
+  color: #777777;
+  width: 75px;
+  height: 45px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+.next p{
+  text-align: center;
+  margin-top:10px;
+}
+
+.main{
+  height: 1420px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.footer-menu{
+  padding-top: 80px;
+  border-bottom: 1px solid #e6e6e6;
+  height: 360px;
+}
+
+.profile{
+  width: 260px;
+  height: 300px;
+  font-size: 17px;
+  float: left;
+}
+
+.profile img{
+  width: 100px;
+  border-radius: 50%;
+}
+
+.profile p{
+  margin-top: 18px;
+}
+
+.name{
+  float: right;
+  font-size:19px;
+  margin-top: 27px;
+  margin-right: 40px;
+  color: #333333;
+  font-weight: bold;
+}
+
+.footer-menu p {
+  color: #666;
+}
+
+.menu1{
+  width: 210px;
+  height: 300px;
+  font-size: 16px;
+  float: left;
+  margin-right: 40px;
+  margin-left: 80px;
+}
+
+.menu2{
+  width: 200px;
+  height: 300px;
+  font-size: 17px;
+  float: left;
+  margin-right: 40px;
+}
+
+.menu3{
+  width: 200px;
+  height: 300px;
+  font-size: 17px;
+  float: left;
+}
+
+.footer-menu h2{
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+footer ul{
+  padding-left: 0px;
+}
+
+footer a {
+  color: #666;
+  text-decoration: underline #e6e6e6;
+}
+
+footer h3{
+  font-weight: lighter;
+  font-size: 14px;
+  color: #999999;
+  margin-bottom: 12px;
+}
+
+.menu3 li{
+  margin-bottom: 16px;
+}
+
+.search{
+  margin-top: 70px;
+}
+
+.search input{
+  width: 205px;
+  height: 26px;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid #e6e6e6;
+}
+
+.qwe{
+  float: right;
+}
+
+.sns{
+  padding-top: 60px;
+}
+
+.fa-twitter{
+  color: #999;
+  margin-right: 20px;
+}
+
+.fa-facebook-f{
+  color: #999;
+  margin-right: 20px;
+}
+
+.fa-instagram{
+  color: #999;
+}
+
+.icon{
+  margin-top: 70px;
+}
+
+.qw{
+  margin-left: 230px;
+}
